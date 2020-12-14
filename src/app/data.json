@@ -1,0 +1,56 @@
+[
+    {
+        "states": {
+            "India": [
+                "Delhi",
+                "Kerala" 
+            ],
+            "Australia": [
+                "Queensland",
+                "Victoria"
+            ],
+            "Iceland": [
+                "Reykjavik",
+                "Westfjords"
+            ]
+        },  
+        "cities": {
+            "Delhi": [
+                "d1",
+                "d2",
+                "d3",
+                "d4"
+            ],
+            "Kerala": [
+                "k1",
+                "k2",
+                "k3",
+                "k4"
+            ],
+            "Queensland": [
+                "n1",
+                "n2",
+                "n3",
+                "n4"
+            ],
+            "Victoria": [
+                "q1",
+                "q2",
+                "q3",
+                "q4"
+            ],
+            "Reykjavik": [
+                "r1",
+                "r2",
+                "r3",
+                "r4"
+            ],
+            "Westfjords": [
+                "w1",
+                "w2",
+                "w3",
+                "w4"
+            ]
+        }
+    }
+]
